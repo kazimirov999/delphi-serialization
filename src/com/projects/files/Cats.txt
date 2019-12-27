@@ -1,0 +1,5 @@
+Simon's cat, 3, WHITE, 100500;
+Garfield, 5, REDHEAD, 25;
+Felix, 6, BLACK, 500;
+Gamilton, 4, GRAY, 250;
+Matroskin, 8, GRAY, 750;
